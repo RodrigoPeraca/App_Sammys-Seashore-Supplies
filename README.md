@@ -5,19 +5,19 @@ O sistema permite registrar aluguéis de diversos tipos de equipamentos (como ca
 
 O projeto foi desenvolvido com base em princípios de POO, utilizando herança, abstração, polimorfismo e tratamento de exceções, além de oferecer duas versões de interface:
 
-  Versão CLI (menu textual) – interação via terminal;
+  * Versão CLI (menu textual) – interação via terminal;
   
-  Versão GUI (interface gráfica Swing) – aplicação visual com campos de entrada e botões.
+  * Versão GUI (interface gráfica Swing) – aplicação visual com campos de entrada e botões.
 
 Funcionalidades Principais:
 
-  Cadastro de aluguéis com cálculo automático do valor total
+  * Cadastro de aluguéis com cálculo automático do valor total
   
-  Suporte a equipamentos com e sem aula de uso
+  * Suporte a equipamentos com e sem aula de uso
   
-  Tratamento de exceções para entradas inválidas
+  * Tratamento de exceções para entradas inválidas
   
-  Salvamento e carregamento automático de dados via serialização de objetos
+  * Salvamento e carregamento automático de dados via serialização de objetos
   
-  Interface gráfica interativa com Java Swing
+  * Interface gráfica interativa com Java Swing
 
